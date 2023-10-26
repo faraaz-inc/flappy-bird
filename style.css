@@ -20,9 +20,8 @@
 }
 
 .bird {
-    background-color: yellow;
     position: absolute;
-    height: 45px;
+    height: 50px;
     width: 60px;
 }
 
